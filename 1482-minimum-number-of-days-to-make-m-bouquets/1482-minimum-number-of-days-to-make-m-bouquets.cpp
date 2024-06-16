@@ -44,13 +44,13 @@ public:
         if (val > arr.size())
             return -1;
 
-        while (low <= high) { // Change to low <= high
+        while (low <= high) { 
             int mid = low + (high - low) / 2;
 
             bool res = isPossible(arr, mid, k, m);
 
             if (res) {
-                high = mid - 1; // Adjust high
+                high = mid - 1; 
             } else {
                 low = mid + 1;
             }
