@@ -11,6 +11,9 @@ public:
         long long low = 0;
         long long high = static_cast<long long>(sqrt(c));
 
+        if(high*high ==c)
+        return true;
+
         while(low<=high ){
             if(low*low + high*high == c)
             return true;
