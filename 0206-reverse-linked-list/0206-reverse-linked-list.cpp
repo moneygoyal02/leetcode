@@ -28,3 +28,5 @@ public:
         return reverseSolve(head);
     }
 };
+
+// Amazon ✯   Microsoft ✯   Apple ✯   Bloomberg ✯   Facebook ✯   Google   Yandex   //Intuit   Nvidia  
