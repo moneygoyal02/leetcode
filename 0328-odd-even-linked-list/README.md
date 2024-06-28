@@ -1,3 +1,18 @@
+  
+        /*
+            Story : 
+            1. Hume odd and even ko segregate karna hai
+            2. To let's take two pointers to point to ODD and EVEN nodes
+            3. Unko alag alag segregate kardenge
+            4. Last me connect kardenge odd ko even se
+            
+        */
+
+
+ ![image](https://github.com/moneygoyal02/leetcode/assets/138269416/d7affdf8-5bb7-48db-8902-412e1d5300ce)
+
+
+
 <h2><a href="https://leetcode.com/problems/odd-even-linked-list/">328. Odd Even Linked List</a></h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return <em>the reordered list</em>.</p>
 
 <p>The <strong>first</strong> node is considered <strong>odd</strong>, and the <strong>second</strong> node is <strong>even</strong>, and so on.</p>
