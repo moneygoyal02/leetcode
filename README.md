@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/moneygoyal02/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/moneygoyal02/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/moneygoyal02/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/moneygoyal02/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/moneygoyal02/leetcode/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/moneygoyal02/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/moneygoyal02/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/moneygoyal02/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
